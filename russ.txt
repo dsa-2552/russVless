@@ -16,7 +16,6 @@ vless://000f16e8-cc68-4951-b336-acd81996efde@151.236.121.248:443?encryption=mlke
 
 vless://f0eac976-e4e2-4e24-bc86-cda82ee31442@5.129.215.87:40443?encryption=none&security=reality&sni=deepl.com&fp=firefox&pbk=7QJA1tXQcNj8gioQVzief5a4KeUTDT7R8FE0jfKU41k&sid=3180&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru52.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
-vless://a932c1c5-fb25-4466-bab4-320fd51bc823@5.42.120.224:7443?encryption=none&security=tls&sni=ruservice3.oaklandjoseph.top&fp=firefox&alpn=h2&type=xhttp&host=ruservice3.oaklandjoseph.top&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2F#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%206%20JSC%20TIMEWEB
 
 vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&sid=52a6&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B9%20%D0%B0%D0%B9%D0%BF%D0%B8%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5BRU%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20VFPARSER
 
