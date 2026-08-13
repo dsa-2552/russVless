@@ -1,5 +1,6 @@
 vless://214e9122-c3ff-438b-962a-4f6c19bffd23@46.173.25.146:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru.crunch-crunch.com&fp=firefox&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087&spx=%2Fabout&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 
+vless://3b332b98-473b-42ea-b6f0-1a4960c3efbc@135.106.142.215:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads2.yandex-dev.online&fp=firefox&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp&headerType=none#t.me%2FNotorgames_0%20-%2013%20%F0%9F%87%B7%F0%9F%87%BA
 vless://3b332b98-473b-42ea-b6f0-1a4960c3efbc@ads2.yandex-dev.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads2.yandex-dev.online&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&type=tcp&headerType=none#t.me%2FNotorgames_0%20-%2017%20%F0%9F%87%B7%F0%9F%87%BA
 
 vless://598b823c-d3fc-4013-aae5-837f10080f7a@72.56.36.96:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=firefox&pbk=cZF84xUCciKRXxTA39vNnh0U8CjUZiUSjLzuNTMOzV8&sid=33e48a03db900ff3&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2011%20JSC%20TIMEWEB
