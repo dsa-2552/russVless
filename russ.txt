@@ -1,11 +1,5 @@
 vless://baf77f32-e1c4-4b48-a980-fb196a8927df@193.168.46.180:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rruu.persik.host&fp=firefox&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2090%20Beget%20LLC
 
-vless://425e9e31-b017-4e32-bbd3-656473466d5e@81.200.158.69:443?encryption=none&security=reality&sni=moscow.koexp.ru&fp=firefox&pbk=-yJaCCGsucUDEnTTn6VJJyF0R5ZLlJAVNeIXFJYSGn8&sid=361c68748712c743&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%205%20JSC%20TIMEWEB
-
-vless://156d7aad-5aca-4eca-b821-5925ede1cadb@72.56.32.106:7443?encryption=none&security=tls&sni=ruservice4.oaklandjoseph.top&fp=firefox&alpn=h2&type=xhttp&host=ruservice4.oaklandjoseph.top&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2F#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2029%20JSC%20TIMEWEB
-
-vless://62e16d1b-de15-423d-8ed9-bbc06c6c4715@72.56.32.106:7443?encryption=none&security=tls&sni=ruservice4.oaklandjoseph.top&fp=firefox&alpn=h2&type=xhttp&host=ruservice4.oaklandjoseph.top&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2F#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2037%20JSC%20TIMEWEB
-
 vless://ff16e22b-5530-4c42-8ece-838f27c3263e@72.56.32.106:7443?encryption=none&security=tls&sni=ruservice4.oaklandjoseph.top&fp=firefox&alpn=h2&type=xhttp&host=ruservice4.oaklandjoseph.top&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2F#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2041%20JSC%20TIMEWEB
 
 vless://2867c76e-3211-07d0-9b13-c528d06a29af@94.26.249.216:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=clode.fastaichat.ru&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2046%20Selectel%20Network
