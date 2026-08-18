@@ -1,3 +1,7 @@
+vless://d82a9ad0-80a2-4871-82b6-8e16d1482b42@81.90.31.81:443?encryption=none&security=reality&sni=kaos.ubuntuhosting.host&fp=firefox&pbk=HHbMyxLRgywVoS_G5d35HW0bToENF0ihXHJ20iLAYRM&sid=b6549e&type=grpc&authority=&serviceName=gun&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2035%20GLOBAL%20INTERNET%20SOLUTIONS%20LLC
+
+vless://f0eac976-e4e2-4e24-bc86-cda82ee31442@5.129.215.87:40443?encryption=none&security=reality&sni=deepl.com&fp=firefox&pbk=7QJA1tXQcNj8gioQVzief5a4KeUTDT7R8FE0jfKU41k&sid=3180&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%205%20JSC%20TIMEWEB
+
 vless://d82a9ad0-80a2-4871-82b6-8e16d1482b42@81.90.31.81:443?encryption=none&security=reality&sni=kaos.ubuntuhosting.host&fp=firefox&pbk=HHbMyxLRgywVoS_G5d35HW0bToENF0ihXHJ20iLAYRM&sid=b6549e&type=grpc&authority=&serviceName=gun&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20104%20GLOBAL%20INTERNET%20SOLUTIONS%20LLC
 
 vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@94.156.181.52:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ru52.mechvpn.online&fp=firefox&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20122%20SERV.HOST%20GROUP%20LTD
