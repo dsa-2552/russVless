@@ -1,8 +1,10 @@
-vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=neurex&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%206%20JSC%20TIMEWEB
+vless://3284cf4e-b74a-4424-ba91-f81408372c78@195.78.48.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru3.razkur.dev&fp=firefox&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2011%20Delta%20Ltd
 
-vless://89755337-8050-401c-86d1-c8c34fb88d89@46.8.158.22:443?encryption=none&security=reality&sni=www.icloud.com&fp=firefox&pbk=wdWQNp1lnaFZ3L_r9hRK5vpVgv9M7UBb5JZuYPcWDAE&sid=e96bc8c85c3836&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2047%20Ildar%20Gilmutdinov%20PE
+vless://3284cf4e-b74a-4424-ba91-f81408372c78@195.78.48.56:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru2.razkur.dev&fp=firefox&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2010%20Delta%20Ltd
 
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&security=reality&sni=ya.ru&fp=firefox&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2043%20TOO%20Beget
+vless://3284cf4e-b74a-4424-ba91-f81408372c78@195.78.48.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru1.razkur.dev&fp=firefox&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2012%20Delta%20Ltd
+
+vless://791a171e-c0af-4bd7-b8ce-43541c7585db@31.76.84.62:443?encryption=none&security=reality&sni=id.pervye.ru&fp=firefox&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&type=grpc&authority=&serviceName=ns&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2020%20SERV.HOST%20GROUP%20LTD
 
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2%20%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F%201%20365.partners%20INC
 
