@@ -1,8 +1,4 @@
-vless://3284cf4e-b74a-4424-ba91-f81408372c78@195.78.48.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru3.razkur.dev&fp=firefox&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2011%20Delta%20Ltd
 
-vless://3284cf4e-b74a-4424-ba91-f81408372c78@195.78.48.56:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru2.razkur.dev&fp=firefox&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2010%20Delta%20Ltd
-
-vless://3284cf4e-b74a-4424-ba91-f81408372c78@195.78.48.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru1.razkur.dev&fp=firefox&pbk=MlXQqlki7M9aZF48YEul5pcRi7vq00UezcwtddeL-08&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2012%20Delta%20Ltd
 
 vless://791a171e-c0af-4bd7-b8ce-43541c7585db@31.76.84.62:443?encryption=none&security=reality&sni=id.pervye.ru&fp=firefox&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&type=grpc&authority=&serviceName=ns&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2020%20SERV.HOST%20GROUP%20LTD
 
