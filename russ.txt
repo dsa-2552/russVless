@@ -1,16 +1,6 @@
-vless://0e75f6ee-9a4d-4019-8276-cacf388d2ec6@188.225.27.115:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=NzaCxfbgTDajw93CJs3uFkFJzp7DWhzJIqcnzoZwGQ4&sid=d68d40aba9c0394a&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20JSC%20TIMEWEB
-
 vless://e8aca5a9-baba-4039-8eb8-f2deae600136@135.106.140.24:443?encryption=none&security=tls&sni=ru3.gracefultun.xyz&fp=firefox&alpn=h2%2Chttp%2F1.1&type=xhttp&host=ru3.gracefultun.xyz&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2084%20JSC%20Selectel
 
-vless://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@185.147.26.175:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yt.orpheous.ru&fp=firefox&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&sid=e4aa362b5f9d07d7&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2092%20PROCLOUD%20MSK
-
-vless://1b7dcb6a-4915-4741-92bf-bc1e7b531140@2.26.104.206:443?encryption=none&security=reality&sni=russianum1.tcpshield.fun&fp=firefox&pbk=nNoxOT_HzUZkKbHiK34iSfF89wlXAXBdlkquGVqGUDk&sid=f4e0550a&type=xhttp&path=%2Ffwlink%2F&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2099%20DpkgSoft%20International%20Limited
-
 vless://791a171e-c0af-4bd7-b8ce-43541c7585db@31.76.84.62:443?encryption=none&security=reality&sni=id.pervye.ru&fp=chrome&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&type=grpc&authority=id.pervye.ru&serviceName=ns&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20Join%2BTelegram%3A%40Farah_VPN%20%F0%9F%87%B7%F0%9F%87%BA
-
-vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=neurex&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20JSC%20TIMEWEB
-
-vless://1b7dcb6a-4915-4741-92bf-bc1e7b531140@2.26.104.206:8443?encryption=none&security=reality&sni=russianum1.tcpshield.fun&fp=firefox&pbk=nNoxOT_HzUZkKbHiK34iSfF89wlXAXBdlkquGVqGUDk&sid=f4e0550a&type=grpc&authority=&serviceName=Windows.Update&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2056%20DpkgSoft%20International%20Limited
 
 vless://791a171e-c0af-4bd7-b8ce-43541c7585db@31.76.84.62:443?encryption=none&security=reality&sni=id.pervye.ru&fp=firefox&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&type=grpc&authority=&serviceName=ns&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2020%20SERV.HOST%20GROUP%20LTD
 
