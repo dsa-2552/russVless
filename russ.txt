@@ -4,13 +4,9 @@ vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&s
 
 vless://dbb5075f-2ff4-4aad-a952-bcc82e4a6355@109.69.17.228:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bzzru.hat.apruxdomain.space&fp=firefox&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&sid=b2ba734eff38baa9&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2094%20Beget%20LLC
 
-vless://318ac662-4b28-4084-9902-90a1f7b61825@193.168.46.180:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rruu.persik.host&fp=firefox&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20100%20Beget%20LLC
-
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@81.26.188.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mts01.edge-mwsru01.live&fp=firefox&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=1b8e04c90af97d47&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20105%20Yandex.Cloud%20LLC
-
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2%20%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F%201%20365.partners%20INC
 
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@178.160.229.238:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=SgV6vBorDPinOHb19xf_3sCP_IUI5Ot9zv7lPuUVhjM&sid=1388c268&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2%20%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F%201%20Telecom%20Armenia%20AS
+
 
 
 
