@@ -1,27 +1,15 @@
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@193.163.203.82:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rf5.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20101%20SERV.HOST%20GROUP%20LTD
-
-vless://31107c01-eb9a-49f1-aeee-1529838ee043@62.76.233.254:443?encryption=none&security=reality&sni=cloudrynth.com&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%202%20JSC%20TIMEWEB
-
 vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&authority=&serviceName=neurex&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%207%20JSC%20TIMEWEB
-
-vless://31107c01-eb9a-0001-aeee-1529838ee043@194.87.56.99:443?encryption=none&security=reality&sni=id.x5.ru&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2010%20JSC%20TIMEWEB
 
 vless://dbb5075f-2ff4-4aad-a952-bcc82e4a6355@109.69.17.228:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bzzru.hat.apruxdomain.space&fp=firefox&pbk=5f7Qx1uealNy3mUg8kV9R_npeYTogZwOsA-9bZtEfD0&sid=b2ba734eff38baa9&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2094%20Beget%20LLC
 
-vless://59cea3d0-0f09-4615-9dab-1e715cf4ab18@193.168.46.180:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rruu.persik.host&fp=firefox&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2096%20Beget%20LLC
-
 vless://318ac662-4b28-4084-9902-90a1f7b61825@193.168.46.180:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rruu.persik.host&fp=firefox&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20100%20Beget%20LLC
-
-vless://4829c2f5-f45a-4330-9b3c-d381b9efdbec@31.76.84.62:443?encryption=none&security=reality&sni=id.pervye.ru&fp=firefox&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&type=grpc&authority=id.pervye.ru&serviceName=ns&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20103%20SERV.HOST%20GROUP%20LTD
 
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@81.26.188.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mts01.edge-mwsru01.live&fp=firefox&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&sid=1b8e04c90af97d47&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20105%20Yandex.Cloud%20LLC
 
-vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@82.202.157.193:443?encryption=none&flow=xtls-rprx-
-vision&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=A51UvCAHsWrGkjaZQoE0PfHt-owiBxSMRIc8XfxdYkg&sid=fbc7b5b2&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20122%20Cloud%20Technologies%20LLC%20trading%20as%20Cloud.ru
-
-vless://d89b3577-a0f4-4327-bb16-2313b02a25f2@109.122.199.126:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=russia.vpber.store&fp=firefox&pbk=fhacrLdXUT3a0PjnL5EVARAmGiNBn_0ysfCJfL3n_gQ&sid=4be4130078ebed0a&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20129%20WAIcore%20Ltd
-
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2%20%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F%201%20365.partners%20INC
+
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@178.160.229.238:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=SgV6vBorDPinOHb19xf_3sCP_IUI5Ot9zv7lPuUVhjM&sid=1388c268&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2%20%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F%201%20Telecom%20Armenia%20AS
 
 
 
