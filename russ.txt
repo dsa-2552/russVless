@@ -1,9 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidHpnUW5XYzYtTFM2RTVsb0JNSFptMHJRQ3F5alhrbg@161.104.55.242:4500?#%F0%9F%87%B7%F0%9F%87%BA%20%40BLACK_SERWERS%20%2358%3FserverDescription%3D8J%2BOriBQVUJHIMK3IEZyZWUgRmlyZQ%3D%3D
 
-vless://7c1b61d5-a9de-40b0-af9b-8a64c6e2863a@199.232.86.44:443?encryption=none&security=tls&sni=accounts.fastly.com&fp=chrome&alpn=h3&type=xhttp&host=ovd7.global.ssl.fastly.net&path=%2F&mode=packet-up#%F0%9F%87%BA%F0%9F%87%B8%20%40BLACK_SERWERS%20%231%3FserverDescription%3D8J%2BTuiBZb3VUdWJlIMK3IE5ldGZsaXg%3D
-
-vless://02b4c992-6353-4a1b-841d-5c3337600efb@146.75.86.6:443?encryption=none&security=tls&sni=developer.fastly.com&fp=chrome&alpn=h3&type=xhttp&host=g1.global.ssl.fastly.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%40BLACK_SERWERS%20%2324%3FserverDescription%3D8J%2BUkiBTZWN1cmUgYnJvd3Npbmc%3D
-
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2%20%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F%201%20365.partners%20INC
 
 
