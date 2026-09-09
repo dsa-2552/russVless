@@ -1,5 +1,7 @@
 hysteria2://5beff945-adaa-492f-85c6-8aaf5df6cfa5@91.240.86.70:22443?sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 
+vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=user-6a917f32.noooo.win&type=tcp#🇷🇺 Россия PROCLOUD MSK
+
 vless://af9c2bcf-fe68-4379-9c78-6e5f1b4af0e2@217.16.31.218:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=firefox&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=e7&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2010%20UFO%20Hosting%20LLC
 
 vless://c4854b1a-ec0f-4c5e-940b-f23c8fd39253@194.135.36.163:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-srv-yt.meow.ac&fp=firefox&pbk=07XXjhQmPu0cnXX7IRDc65movxzd0XWV2v0W62Xoqgc&sid=6340e9067e86efaf&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20JSC%20TIMEWEB
