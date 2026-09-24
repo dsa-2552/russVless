@@ -1,3 +1,5 @@
+vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=user-6a917f32.noooo.win&type=tcp&headerType=none&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2%20%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F%201%20365.partners%20INC
 
 
