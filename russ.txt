@@ -1,7 +1,5 @@
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%95%8A%20Russia%20%5B%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%A1%20%7C%20%D0%A2%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%5D%20%233
 
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%91%D0%A1%201%20%F0%9F%92%9C
-
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=itsallproxy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20GidroksiFree%20%2325%20%7C%20%F0%9F%9F%A2LTE%20%7C%20106ms%20%7C%20%E2%86%930.0Mbps
 
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20GidroksiFree%20%2322%20%7C%20%F0%9F%9F%A2LTE%20%7C%20164ms%20%7C%20%E2%86%930.0Mbps
