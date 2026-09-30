@@ -1,7 +1,5 @@
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%95%8A%20Russia%20%5B%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%A1%20%7C%20%D0%A2%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82%5D%20%233
 
-vless://ce5949b7-5137-4007-8a0a-063aad88b920@45.151.71.27:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2011%20free
-
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2%20%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F%201%20365.partners%20INC
 
 
