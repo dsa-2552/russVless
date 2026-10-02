@@ -4,7 +4,7 @@ hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=itsallpr
 
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20GidroksiFree%20%2322%20%7C%20%F0%9F%9F%A2LTE%20%7C%20164ms%20%7C%20%E2%86%930.0Mbps
 
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=itsallproxy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%D0%91%D0%95%D0%9B%D0%AB%D0%99%20IP%20%7C%20%40RaViraNet
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%D0%91%D0%95%D0%9B%D0%AB%D0%99%20IP%20%7C%20%40RaViraNet
 
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.104.195:9882?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&spx=%2F&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%E2%80%94%20Moscow
 
