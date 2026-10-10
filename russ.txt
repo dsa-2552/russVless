@@ -4,8 +4,6 @@ vless://267b3a79-81f2-42ac-a409-c23b05b6329d@94.141.162.88:443?encryption=none&f
 
 vless://81167507-b634-4f56-9555-33e4fd660ce0@193.187.95.124:443?encryption=none&security=reality&sni=github.com&fp=firefox&pbk=8bMoXjt19DiBhVEEzx2xxe9dsgYOerlQC6yf0JDOoQE&sid=6f01a3e0f21267&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20OT%40Hy2UDP%20%28WIFI%2FLTE%29%20%23118
 
-vless://a47f8110-de83-4c37-b6a7-16010535aef4@195.19.166.71:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=viva.keeneticdocs.ru&fp=firefox&pbk=b3gpqoUVf1RKKAVOE20jxNwx72bT3PwgWG-_LO-R0Sc&sid=ee911749edaad12c&type=tcp&headerType=none#35.%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%40LimeVPNFREE
-
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&security=reality&sni=yahoo.com&fp=firefox&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B2%20%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F%201%20365.partners%20INC
 
 
