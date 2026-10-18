@@ -1,8 +1,5 @@
 vless://d4eea5b2-219c-4f6c-8eee-cd35a4371888@188.130.209.222:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6vubZmkLVtaiFF8JyGFy7XSy2pc7ywN4P625QLKw8wc&security=reality&sid=11979c0c9b2da371&sni=thumbs.mycdn-io.ru&type=tcp#🇷🇺 Россия Delta Ltd
 
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&security=reality&sid=58301280&sni=metrika.yandex.ru&type=tcp#🇦🇲 Армения 1 GNC-Alfa CJSC
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=firefox&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#🇦🇲 Армения 2 GNC-Alfa CJSC
-
 
 
 
