@@ -4,6 +4,8 @@ vless://680e92ac-1688-49e0-af96-7327fbc30ce8@193.160.140.119:443?encryption=none
 
 vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@147.45.47.83:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2027%20Shabalov%20Grigoriy%20Pavlovich
 
+vless://54d1afe5-f5aa-47e6-a02f-6c41a6f886b3@45.9.118.216:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ozon.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2012%20NEUROSIGNAL%20LLC
+
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=firefox&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#🇦🇲 Армения 3 GNC-Alfa CJSC
 
 
