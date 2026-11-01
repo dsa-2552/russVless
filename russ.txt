@@ -1,3 +1,5 @@
+vless://a5212bcb-ab85-459a-bec6-9f259eeeebfa@135.106.153.131:443?encryption=none&security=reality&sni=rug.tems.bet&fp=firefox&pbk=OIWmjOL9lOxVRm-ejEvQf_G-Km-5Rw3L-w5d8rhVzQw&sid=69b1363a7dfd97d3&type=tcp&headerType=none&host=rug.tems.bet&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%5Bopenproxylist.com%5D%20vless-RU
+
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@147.45.148.6:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yoy-api.bachidze.com&fp=firefox&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=firefox&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#🇦🇲 Армения 3 GNC-Alfa CJSC
