@@ -1,3 +1,2 @@
-vless://12c39efa-b6d8-4467-bfd5-22dca077225e@48.102.217.33:443?encryption=none&fp=firefox&host=www.samsung.com&pbk=NVwzzeQbvYYkT2-MGGBCgsHNnGfsSWupuMtTvd6gEzY&security=reality&sid=733857f978b623eb&sni=www.samsung.com&type=xhttp#🇷🇺 Россия 1 SERV.HOST GROUP LTD
-
+vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=chrome&host=wholebeam.com&mode=auto&path=%252Fapi%252Fv1%252Fupload&security=tls&sni=wholebeam.com&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%C2%B7%20tgproxy.pink
 
