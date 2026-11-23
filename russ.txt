@@ -1,5 +1,3 @@
 vless://12c39efa-b6d8-4467-bfd5-22dca077225e@48.102.217.33:443?encryption=none&fp=firefox&host=www.samsung.com&pbk=NVwzzeQbvYYkT2-MGGBCgsHNnGfsSWupuMtTvd6gEzY&security=reality&sid=733857f978b623eb&sni=www.samsung.com&type=xhttp#🇷🇺 Россия 1 SERV.HOST GROUP LTD
 
-vless://12c39efa-b6d8-4467-bfd5-22dca077225e@48.102.217.33:443?encryption=none&fp=firefox&pbk=NVwzzeQbvYYkT2-MGGBCgsHNnGfsSWupuMtTvd6gEzY&security=reality&sid=733857f978b623eb&sni=www.samsung.com&type=xhttp#🇷🇺 Россия 2 SERV.HOST GROUP LTD
 
-vless://12c39efa-b6d8-4467-bfd5-22dca077225e@48.102.217.33:443?encryption=none&fp=firefox&host=www.samsung.com&path=/?Telegram@pirozi_ArGaP@pirozi_ArGaP&pbk=NVwzzeQbvYYkT2-MGGBCgsHNnGfsSWupuMtTvd6gEzY&security=reality&sid=733857f978b623eb&sni=www.samsung.com&type=xhttp#🇷🇺 Россия 3 SERV.HOST GROUP LTD
