@@ -1,2 +1,1 @@
-vless://37af0181-5598-4aad-a040-d926bcb65757@185.86.145.173:443?encryption=none&extra=null&fp=chrome&host=wholebeam.com&mode=auto&path=%252Fapi%252Fv1%252Fupload&security=tls&sni=wholebeam.com&type=xhttp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%C2%B7%20tgproxy.pink
-
+vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.51.12.98:443?encryption=none&security=tls&sni=vps3.nemnogogo.com&fp=firefox&type=grpc&authority=&serviceName=mobile.api.Event&mode=gun#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%28%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%29%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%28%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%20129.101.105.29%29%20%7C%20%40RaViraNet
